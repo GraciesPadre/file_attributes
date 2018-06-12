@@ -1,0 +1,52 @@
+h1, h2, h3
+{
+    font-family: "comic sans ms", arial, 'sans serif';
+}
+
+pre
+{
+    margin-left: 15pt;
+}
+
+p, table, li, address
+{
+    font-family: arial, 'sans serif';
+    margin-left: 15pt;
+}
+
+p, li, th, td
+{
+    font-size: 80%;
+}
+
+th {
+    background-color: #00f0f0
+}
+
+body
+{
+    background-color: #f0f0f0;
+}
+
+h1, h2, h3, hr
+{
+    color: #00a0a0;
+}
+
+a:link {
+    color: #00a0a0
+}
+
+a:visited {
+    color: #a0a0a0
+}
+
+a:active {
+    color: blue
+}
+
+a:hover {
+    color: blue
+}
+
+
